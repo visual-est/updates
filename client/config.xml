@@ -8,7 +8,7 @@
         <property key="maven.central" value="https://repo1.maven.org/maven2"/>
     </properties>
     <files>
-        <file path="visual-est-client-1.0.0.jar" size="430523" checksum="5d8a6456" modulepath="true"/>
+        <file path="visual-est-client-1.0.0.jar" size="430523" checksum="384c6978" modulepath="true"/>
         <file uri="${maven.central}/org/bouncycastle/bcpkix-jdk15on/1.64/bcpkix-jdk15on-1.64.jar" size="878038" checksum="64cbe3cf" modulepath="true"/>
         <file uri="${maven.central}/org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64.jar" size="4771726" checksum="4d4d621" modulepath="true"/>
         <file uri="${maven.central}/org/bouncycastle/bctls-jdk15on/1.64/bctls-jdk15on-1.64.jar" size="1167209" checksum="fa12fe86" modulepath="true"/>
